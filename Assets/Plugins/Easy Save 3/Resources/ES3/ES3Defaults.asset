@@ -38,6 +38,9 @@ MonoBehaviour:
     - Assembly-CSharp
     - Assembly-CSharp-firstpass
     - IngameDebugConsole.Runtime
+    - Lofelt.NiceVibrations
+    - Lofelt.NiceVibrations.Demo
+    - MoreMountains.Tools
     - QFSW.QC
     - QFSW.QC.Demo
     - QFSW.QC.Extras
